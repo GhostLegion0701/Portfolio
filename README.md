@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a modern, interactive personal portfolio designed to present my work in Artificial Intelligence, Machine Learning, and Generative AI. The website focuses on clarity, performance, and user experience while highlighting real-world projects and technical capabilities.
+This is a modern, interactive personal portfolio designed to showcase my work in Artificial Intelligence, Machine Learning, and Generative AI. The website emphasizes clarity, performance, and user experience while highlighting real-world projects and technical capabilities.
 
 ## Features
 
@@ -10,7 +10,7 @@ This is a modern, interactive personal portfolio designed to present my work in 
 * Light and dark mode toggle with smooth transitions
 * Interactive background effects based on cursor movement
 * Structured sections for projects, skills, and experience
-* Smooth animations and clean navigation
+* Smooth animations and intuitive navigation
 
 ## Tech Stack
 
@@ -50,7 +50,7 @@ git clone https://github.com/your-username/Portfolio.git
 Navigate to the project:
 
 ```
-cd your-repo-name
+cd Portfolio
 ```
 
 Install dependencies:
@@ -67,16 +67,16 @@ npm start
 
 ## Future Enhancements
 
-* Add blog section for technical content
-* Improve project filtering and search
-* Integrate backend for dynamic updates
+* Add a blog section for technical content
+* Improve project filtering and search functionality
+* Integrate a backend for dynamic content updates
 * Enhance visual effects with advanced graphics
 
 ## Contact
 
-LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/sivaji-raj/)
-GitHub:  https://github.com/GhostLegion0701
-Email: sivajirajofcl@gmail.com
+LinkedIn: https://www.linkedin.com/in/sivaji-raj/
+GitHub: https://github.com/GhostLegion0701
+Email: [sivajirajofcl@gmail.com](mailto:sivajirajofcl@gmail.com)
 
 ## License
 
