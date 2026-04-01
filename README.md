@@ -75,7 +75,9 @@ npm start
 ## Contact
 
 LinkedIn: https://www.linkedin.com/in/sivaji-raj/
+
 GitHub: https://github.com/GhostLegion0701
+
 Email: [sivajirajofcl@gmail.com](mailto:sivajirajofcl@gmail.com)
 
 ## License
